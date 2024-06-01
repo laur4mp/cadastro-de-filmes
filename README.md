@@ -1,1 +1,3 @@
-# cadastro-de-filmes
+# movies_project
+
+![Texto Alternativo](img/movies.png)
